@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&family=Roboto&family=Romanesco&display=swap');
+
+header, footer{
+    background-image: linear-gradient(white, #AD86BC);
+}
+
+.jobtitle h2{
+    color: white;
+}
+/*------------------------------------------------------------------------*/
+h1{
+    font-family: "Romanesco", sans-serif;
+    margin-left: 10px;
+    font-size: 70px;
+    width: 50%;
+}
+
+.jobtitle{
+    background-image: url("../images/home-office.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    width: 100vw;
+}
+
+.jobtitle h2{
+    text-align: center;
+    font-size: 75px;
+    font-family: "Romanesco", sans-serif;
+}
+
+
+
+/*------------------------------------------------------------------------------*/
+.linkedIn{
+    height: 75px;
+}
+
+.linkedIn img{
+    width: 250px;
+    height: 55px;
+    margin-top: 10px;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.download{
+    margin-top: 20px;
+    font-size: 20px;
+}
