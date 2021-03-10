@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Damion&family=Roboto&family=Romanesco&display=swap');
 
+
+/*-----------------------------------------------------------------------Colours*/
 header, footer{
     background-image: linear-gradient(white, #AD86BC);
 }
@@ -7,12 +9,16 @@ header, footer{
 .jobtitle h2{
     color: white;
 }
-/*------------------------------------------------------------------------*/
+
+.download a{
+    color: black;
+}
+
+/*------------------------------------------------------------------------Job Title*/
 h1{
     font-family: "Romanesco", sans-serif;
     margin-left: 10px;
-    font-size: 70px;
-    width: 50%;
+    font-size: 90px;
 }
 
 .jobtitle{
@@ -31,20 +37,66 @@ h1{
 
 
 
-/*------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------About Me*/
+.aboutme{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.aboutme h2{
+    position: center;
+    text-decoration: underline;
+    font-family:"Romanesco", sans-serif;
+    font-size: 100px;
+}
+
+.picture img{
+    width: 550px;
+    height: 750px;
+    border-radius: 50%;
+    border: 5px solid black;
+    float: left;
+}
+
+.qualifications{
+    border: 1px solid black;
+    width: 500px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px; 
+    padding-right: 20px;
+    position: relative;
+}
+
+.qualifications h3{
+    text-align: center;
+    font-size: 70px;
+    text-decoration: underline;
+    font-family: "Romanesco", sans-serif;
+}
+
+.qualifications li{
+    font-size: 25px;
+}
+
+
+/*------------------------------------------------------------------------------Footer*/
 .linkedIn{
     height: 75px;
 }
 
 .linkedIn img{
     width: 250px;
-    height: 55px;
-    margin-top: 10px;
-    justify-content: center;
-    border: 1px solid black;
+    height: 45px;
+    margin-top: 25px;
+    border: 2px solid black;
 }
 
 .download{
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 35px;
+}
+
+/*----------------------------------------------------------------Media Screen*/
+@media screen{
+
 }
