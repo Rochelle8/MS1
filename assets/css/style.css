@@ -117,12 +117,12 @@ h1{
 }
 
 /*-----------------------------------------------------------------------------Projects*/
-#projects h2{
-    font-family: "Romanesco", sans-serif;
-    font-size: 100px;
+#projects h2, #workwith h2{
+    font-family: "Roboto", sans-serif;
+    font-size: 65px;
 }
 
-#projects h3{
+#projects h3, #workwith h3{
     font-family: "Romanesco", sans-serif;
     font-size: 40px;
 
@@ -142,7 +142,7 @@ h1{
 
 .download{
     margin-top: 20px;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 /*----------------------------------------------------------------Media Screen*/
