@@ -64,3 +64,8 @@ The photos used in this site were obtained from ...
 
 Acknowledgements
 I received inspiration for this project from X
+
+
+
+
+SEO image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F587415-seo-logo-design&psig=AOvVaw3nRF9ROgG1Bhyp67RatHiC&ust=1615508251256000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjjlrL7pu8CFQAAAAAdAAAAABAD
