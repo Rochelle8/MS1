@@ -14,9 +14,21 @@ header, footer{
     color: black;
 }
 
-.keyskills h2{
-    color: #AD86BC;
+#projects{
+    background-color: rgb(222, 181, 238);
 }
+
+#projects h2{
+    color: white;
+}
+
+.project1 img, .project2 img{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    display: block;
+}
+
 /*------------------------------------------------------------------------Job Title*/
 h1{
     font-family: "Romanesco", sans-serif;
@@ -103,6 +115,19 @@ h1{
     padding: 10px;
     position: relative;
 }
+
+/*-----------------------------------------------------------------------------Projects*/
+#projects h2{
+    font-family: "Romanesco", sans-serif;
+    font-size: 100px;
+}
+
+#projects h3{
+    font-family: "Romanesco", sans-serif;
+    font-size: 40px;
+
+}
+
 /*------------------------------------------------------------------------------Footer*/
 .linkedIn{
     height: 75px;
